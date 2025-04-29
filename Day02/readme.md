@@ -57,9 +57,9 @@ You are 23 years old!
 
 ## 📁 Project Structure
 
-```bash
-📦 AgeCalculator-Batch
- ┣ 📄 README.md
- ┣ 🐚 age_calculator.bat
+bash
+ AgeCalculator-Batch
+  README.md
+ age_calculator.bat
 ```
 
