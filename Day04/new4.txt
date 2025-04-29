@@ -1,0 +1,28 @@
+{ ~ }  » vi my.sh                                                        ~
+{ ~ }  » vi my.sh                                                        ~
+{ ~ }  » chmod 777 my.sh                                                 ~
+{ ~ }  » ./my.sh                                                         ~
+who are you?
+salman
+Enter number 1
+8
+Enter number 2
+9
+Enter number 3
+10
+Hi salman
+Summation 27
+Average  9
+{ ~ }  »                                                                 ~
+
+{ ~ }  » vi maths.sh                                                     ~                                                                               ~
+{ ~ }  » chmod 777 maths.sh                                              ~
+{ ~ }  » ./maths.sh 
+Enter a
+43
+Enter number b
+23
+Summation        66
+Subtraction      20
+Multiplication   989
+Division         1
